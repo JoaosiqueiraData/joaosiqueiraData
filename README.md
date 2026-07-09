@@ -18,4 +18,4 @@ Trabalho na fronteira entre controladoria e dados: pego a operação (produção
 Repositórios abaixo com análises reais de negócio (dados anonimizados por confidencialidade).
 
 ###  Onde me encontrar
-- LinkedIn: https://www.linkedin.com/in/joãosiqueiraa?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- LinkedIn: https://www.linkedin.com/in/joãosiqueiraa)
